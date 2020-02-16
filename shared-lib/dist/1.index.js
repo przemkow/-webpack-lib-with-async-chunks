@@ -1,0 +1,1 @@
+(window.webpackJsonpshared_lib=window.webpackJsonpshared_lib||[]).push([[1],[,function(e,n,a){"use strict";function o(){console.log("I'm lazy loaded shared feature")}a.r(n),a.d(n,"lazySharedFeature",(function(){return o}))}]]);

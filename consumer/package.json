@@ -12,7 +12,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "my-external-lib": "../shared-lib/shared-lib-1.0.3.tgz"
+    "my-external-lib": "file:../shared-lib/shared-lib-1.0.0.tgz"
   },
   "devDependencies": {
     "html-webpack-plugin": "^3.2.0",
