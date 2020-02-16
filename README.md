@@ -35,6 +35,9 @@ Consumer is not aware about additional chunks of the shared library which will b
 
 ### Related issues:
 https://github.com/vuejs/vue-cli/issues/3161
+
 https://stackoverflow.com/questions/54149892/webpack-cannot-resolve-node-modules-lazy-assets
+
 https://github.com/webpack/webpack/issues/7843
+
 https://github.com/webpack/webpack/issues/8934
